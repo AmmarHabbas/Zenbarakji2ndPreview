@@ -4716,15 +4716,14 @@ figcaption {
 }
 
 .uui-logo_image {
-  width: 50px;
+  width: auto;
   height: 100%;
   flex: none;
   display: none;
-  object-fit: contain;
 }
 
 .uui-logo_logotype {
-  width: 50px;
+  width: 60px;
   object-fit: contain;
   flex: auto;
 }
@@ -12101,7 +12100,7 @@ figcaption {
   }
 
   .uui-logo_logotype {
-    width: 50px;
+    width: 124px;
   }
 
   .navbar-logo-link.w--current {
